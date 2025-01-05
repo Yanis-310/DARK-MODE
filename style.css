@@ -69,7 +69,7 @@ header nav.black {
 
 
 header {
-  background: url(./photo\ voiture.jpg) fixed center/cover;
+  background: url(./img/photo\ voiture.jpg) fixed center/cover;
   color: rgb(255, 255, 255);
 }
 header::after {
@@ -196,7 +196,7 @@ z-index: 1;
 }
 
 .image-separate {
-    background: url(./MuseedelAutomobile-juil2021©AlexisTOUREAU107.webp) fixed center/cover;
+    background: url(./img/MuseedelAutomobile-juil2021©AlexisTOUREAU107.webp) fixed center/cover;
     padding: 250px;
     margin: auto 25px;
 }
